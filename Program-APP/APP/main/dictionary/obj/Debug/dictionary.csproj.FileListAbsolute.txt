@@ -1,0 +1,11 @@
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\bin\Debug\dictionary.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\bin\Debug\dictionary.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\obj\Debug\dictionary.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\obj\Debug\dictionary.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\bin\Debug\DAO.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\bin\Debug\DAO.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\bin\Debug\DAO.exe.config
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\obj\Debug\dictionary.csprojAssemblyReference.cache
+C:\Users\xusi\Desktop\源码\测试\APP\main\dictionary\obj\Debug\dictionary.csproj.CopyComplete

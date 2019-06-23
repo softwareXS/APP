@@ -1,0 +1,7 @@
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\bin\Debug\DAO.exe.config
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\bin\Debug\DAO.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\bin\Debug\DAO.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\obj\Debug\DAO.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\obj\Debug\DAO.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\DAO\obj\Debug\DAO.csprojAssemblyReference.cache

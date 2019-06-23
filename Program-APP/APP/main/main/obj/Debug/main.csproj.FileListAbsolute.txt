@@ -1,0 +1,17 @@
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\main.exe.config
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\main.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\main.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\obj\Debug\main.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\obj\Debug\main.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\DAO.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\dictionary.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\DAO.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\DAO.exe.config
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\dictionary.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\dictionary.exe.config
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\obj\Debug\main.csproj.CopyComplete
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\version.exe
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\version.pdb
+C:\Users\xusi\Desktop\源码\测试\APP\main\main\bin\Debug\version.exe.config
